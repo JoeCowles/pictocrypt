@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "12406696820",
+    "project_id": "pictocrypt-8f6d9",
+    "storage_bucket": "pictocrypt-8f6d9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:12406696820:android:1cb9ae0dedcc9161159a21",
+        "android_client_info": {
+          "package_name": "com.unboxed.pictocrypt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "12406696820-3snnuotd77o6js4g70qvcpljdmp1ma9i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD4B-MHBYNh2NLrwGRNAkyYv0EpUswuVok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "12406696820-3snnuotd77o6js4g70qvcpljdmp1ma9i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
